@@ -1,0 +1,9 @@
+﻿  main.cpp
+c:\users\saymonla\desktop\cg\screen-saver\screensaver\main.cpp(252): warning C4244: '=': conversão de 'double' para 'float', possível perda de dados
+c:\users\saymonla\desktop\cg\screen-saver\screensaver\main.cpp(257): warning C4244: '=': conversão de 'double' para 'float', possível perda de dados
+c:\users\saymonla\desktop\cg\screen-saver\screensaver\main.cpp(87): warning C4101: 'shader_programme2': variável local não referenciada
+c:\users\saymonla\desktop\cg\screen-saver\screensaver\main.cpp(85): warning C4101: 'fs2': variável local não referenciada
+c:\users\saymonla\desktop\cg\screen-saver\screensaver\main.cpp(14): warning C4101: 'vbo2': variável local não referenciada
+c:\users\saymonla\desktop\cg\screen-saver\screensaver\main.cpp(13): warning C4101: 'vao2': variável local não referenciada
+LINK : warning LNK4098: defaultlib 'MSVCRT' conflita com uso de outras bibliotecas; use /NODEFAULTLIB:library
+  ScreenSaver.vcxproj -> C:\Users\saymonla\Desktop\cg\Screen-saver\x64\Debug\ScreenSaver.exe
